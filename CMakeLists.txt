@@ -1,5 +1,5 @@
-PROJECT (librepo C)
 CMAKE_MINIMUM_REQUIRED (VERSION 2.8.5)
+PROJECT (librepo C)
 
 OPTION (ENABLE_TESTS "Build test?" ON)
 OPTION (ENABLE_DOCS "Build docs?" ON)
